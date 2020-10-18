@@ -1,0 +1,6 @@
+{"label": "DISCREPANCY", "pattern": [{"lower": "pliegos"}, {"lower": "de"}, {"lower": "observaciones"}]}
+{"label": "DISCREPANCY", "pattern": [{"lower": "responsabilidad"},  {"lower": "administrativa"}, {"lower": "sancionatoria"}]}
+{"label": "APPROVE", "pattern": [{"lower": "aprobarse"}, {"lower": "la"}, {"lower": "cuenta"}, {"lower": "publica"}]}
+{"label": "DISCREPANCY", "pattern": [{"lower": "rechaza"},  {"lower": "la"}, {"lower": "cuenta"},{"lower": "publica"}]}
+{"label": "DISCREPANCY", "pattern": [{"lower": "variación"} ]}
+

@@ -1,0 +1,23 @@
+{
+  "uas":0.0,
+  "las":0.0,
+  "las_per_type":{
+    "root":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    }
+  },
+  "ents_p":0.0,
+  "ents_r":0.0,
+  "ents_f":0.0,
+  "ents_per_type":{
+
+  },
+  "tags_acc":99.7998259356,
+  "token_acc":100.0,
+  "textcat_score":0.0,
+  "textcats_per_cat":{
+
+  }
+}

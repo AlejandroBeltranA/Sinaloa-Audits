@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "Relevant"
+  ],
+  "deprecation_fixes":{
+    "vectors_name":"spacy_pretrained_vectors"
+  },
+  "exclusive_classes":false,
+  "pretrained_vectors":null,
+  "pretrained_dims":null
+}
